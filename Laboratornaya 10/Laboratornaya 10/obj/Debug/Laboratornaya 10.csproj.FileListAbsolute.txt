@@ -1,0 +1,21 @@
+C:\Users\midni\source\repos\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.exe.config
+C:\Users\midni\source\repos\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.exe
+C:\Users\midni\source\repos\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.pdb
+C:\Users\midni\source\repos\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.csprojAssemblyReference.cache
+C:\Users\midni\source\repos\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.csproj.CoreCompileInputs.cache
+C:\Users\midni\source\repos\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.exe
+C:\Users\midni\source\repos\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.pdb
+C:\Users\midni\Downloads\Laboratornaya_10\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.exe.config
+C:\Users\midni\Downloads\Laboratornaya_10\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.exe
+C:\Users\midni\Downloads\Laboratornaya_10\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.pdb
+C:\Users\midni\Downloads\Laboratornaya_10\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.csprojAssemblyReference.cache
+C:\Users\midni\Downloads\Laboratornaya_10\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.csproj.CoreCompileInputs.cache
+C:\Users\midni\Downloads\Laboratornaya_10\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.exe
+C:\Users\midni\Downloads\Laboratornaya_10\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.pdb
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.exe.config
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.exe
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 10\Laboratornaya 10\bin\Debug\Laboratornaya 10.pdb
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.csprojAssemblyReference.cache
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.csproj.CoreCompileInputs.cache
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.exe
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 10\Laboratornaya 10\obj\Debug\Laboratornaya 10.pdb
